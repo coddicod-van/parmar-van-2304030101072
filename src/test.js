@@ -1,0 +1,1 @@
+console.log("Your environment is ready. You can now start coding!");
