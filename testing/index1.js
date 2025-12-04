@@ -1,0 +1,1 @@
+console.log("This is index1.js in the testing directory.");

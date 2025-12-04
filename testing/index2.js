@@ -1,0 +1,1 @@
+    console.log("This is index2.js in the testing directory.");
